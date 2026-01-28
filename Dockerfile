@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM docker.io/nginx:alpine
 
 # Copy static assets to Nginx html directory
 COPY . /usr/share/nginx/html
