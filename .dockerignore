@@ -1,8 +1,2 @@
 .git
-.gitignore
-mobile-design
-*.md
-imagesapplication-docs
-node_modules
-dist
-.env
+Dockerfile
